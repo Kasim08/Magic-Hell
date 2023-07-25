@@ -123,7 +123,7 @@ MonoBehaviour:
   fireTransform: {fileID: 3752620938703078349}
   bulletPrefab: {fileID: 2178765676388003560, guid: 8f4be3b148c325740ad65774c7c4d025,
     type: 3}
-  shotForce: 25
+  shotForce: 50
   fireAngle: 45
   layer: Enemy
   fireRate: 1
